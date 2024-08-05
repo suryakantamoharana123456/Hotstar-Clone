@@ -1,5 +1,4 @@
 import React from 'react'
-import Icon from './Header.jsx'
 
 function HeaderItem({name,Icon}) {
   return (
